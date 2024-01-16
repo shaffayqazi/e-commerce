@@ -1,0 +1,60 @@
+{
+     "products": [
+          {
+               "id": 1,
+               "name": "M90",
+               "price": 10.99,
+               "description": "This is the diescription for the M90.",
+               "image": "http://placehold.it/200x200&text=Product+1",
+               "discountPercentage": 12.96,
+               "discountPrice": 9.56,
+               "discountAmount": 1.43,
+                "stock": 94,
+                "brand": "Motorola",
+                "category": "earbuds"
+
+          },
+         {
+               "id": 2,
+               "name": "M900",
+               "price": 10.99,
+               "description": "This is the diescription for the M90.",
+               "image": "http://placehold.it/200x200&text=Product+1",
+               "discountPercentage": 12.96,
+               "discountPrice": 9.56,
+               "discountAmount": 1.43,
+                "stock": 94,
+                "brand": "Motorola",
+                "category": "earbuds"
+
+          },
+            {
+               "id": 3,
+               "name": "M9000",
+               "price": 10.99,
+               "description": "This is the diescription for the M90.",
+               "image": "http://placehold.it/200x200&text=Product+1",
+               "discountPercentage": 12.96,
+               "discountPrice": 9.56,
+               "discountAmount": 1.43,
+                "stock": 94,
+                "brand": "Motorola",
+                "category": "earbuds"
+
+          },
+            {
+               "id": 4,
+               "name": "M90000",
+               "price": 10.9900,
+               "description": "This is the diescription for the M90.",
+               "image": "http://placehold.it/200x200&text=Product+1",
+               "discountPercentage": 12.960,
+               "discountPrice": 9.560,
+               "discountAmount": 1.430,
+                "stock": 94,
+                "brand": "Motorola",
+                "category": "earbuds"
+
+          }
+     ]
+}

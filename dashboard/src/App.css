@@ -1,0 +1,14 @@
+/* App.css */
+.custom-file {
+  margin-bottom: 1rem;
+}
+
+.custom-file-input {
+  cursor: pointer;
+}
+
+.custom-file-label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
